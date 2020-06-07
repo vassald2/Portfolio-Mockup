@@ -3,6 +3,8 @@ Source code for my portfolio website
 which shows lauguages I'm familiar with and
 tools that I use/used.
 
+This project is a part of Udacity Full Stack Web Developer Nanodegree
+
 #Running the code
 1. Download the zip file
 2. Extract the files
